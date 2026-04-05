@@ -10,7 +10,7 @@ import Profile from '../Project1/profile';
 import Letters from '../Project1/letters';
 import Fruit from '../Project1/fruit';
 import Even from '../Project1/even';
-import Feedback from '../Project1/emoji-feedback/src/Component/Feedback/Feedback';
+import Feedback from '../Project1/emoji';
 import Coin from '../Project1/coin';
 
 const files = [{
